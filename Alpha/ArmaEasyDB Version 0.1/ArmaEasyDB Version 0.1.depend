@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1390064314 source:d:\###c++###\armaeasydb\armaeasydb version 0.1\coreserver_main_source.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+	<fstream>
+	"coreserver_main_header.h"
+
+1353611316 d:\###c++###\armaeasydb\armaeasydb version 0.1\coreserver_main_header.h
+
+1390402070 source:d:\###c++###\armaeasydb\armaeasydb version 0.1\main.cpp
+	<Windows.h>
+	<iostream>
+	<string>
+	<time.h>
+	<fstream>
+	<sstream>
+	<vector>
+	"ArmaEasyDB_header.h"
+
+1390402060 source:d:\###c++###\armaeasydb\armaeasydb version 0.1\armaeasydb_source.cpp
+	"ArmaEasyDB_header.h"
+
+1390401950 d:\###c++###\armaeasydb\armaeasydb version 0.1\armaeasydb_header.h
+	<sstream>
+	<string>
+	<fstream>
+	"coreserver_main_header.h"
+
